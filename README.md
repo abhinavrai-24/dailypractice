@@ -1,5 +1,9 @@
 # dailypractice
 
-I will upload all the codes of the questions I practice.
+COMMANDS  TO USE GITHUB FROM TERMINAL DIRECTLY - 
 
-Now i will check methods.
+* `USE cd.\<REPONAME>\OR JUST TYPE "cd" AND PRESS TAB TO AUTOCOMPLETE.`
+* `USE ls FOR LISTING ALL THE REPONAMES.`
+* `USE GIT STATUS TO SEE THE STATUS OF THE EXISTING FILES.`
+* `USE git add AND THEN git commit -m "<SOME MESSAGE>" TO CHANGE AND SAVE THE FILES.`
+* `LASTLY USE git push origin main TO UPLOAD THE SAME FILE TO THE GITHUB ON THE WEB.`
